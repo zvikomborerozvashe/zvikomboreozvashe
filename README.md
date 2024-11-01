@@ -1,10 +1,7 @@
 Hi there! 👋
-I'm Angeliq`ue a passionate 4th year student studying Computer Science and Engineering student with a minor in Robotics. 
-I enjoy solving real-world problems through technology and have a keen interest in AI, IoT, Embedded Systems, and Web Development basically everything that involves technology. 
-Currently, I’m working on projects that combine my love for robotics and automation inorder to solve problems in my community.
-I apire to help my community to help them to make the jobs they do much more easier by automation
+I'm Angélique — a 4th-year Computer Science and Engineering student with a minor in Robotics. I’m passionate about using AI, IoT, Embedded Systems, and Web Development to solve real-world problems and help my community through technology. Currently, I’m working on projects that bring together my love for robotics and automation to make jobs easier.
 
-Current Projects
-Small Scale Farming Robot: Aimed at empowering small farmers with automated crop management solutions.
-Smart Waste Management System: Leveraging sensors for efficient waste collection.
-Disaster Rescue Robots Research: Investigating advancements in robotics for challenging rescue scenarios.
+🌱 Current Projects
+🤖 Small Scale Farming Robot: Empowering small farmers with automated crop management.
+♻️ Smart Waste Management System: Optimizing waste collection using sensors.
+🚁 Disaster Rescue Robotics Research: Exploring advancements for challenging rescue missions.
